@@ -32,3 +32,4 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+AWS/05_ EKS_Cluster/terraform.exe
